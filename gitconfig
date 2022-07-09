@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andregorgen@gmail.com
+	name = Andre Gorgen
